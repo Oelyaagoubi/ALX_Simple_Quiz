@@ -10,3 +10,5 @@ function checkAnswer(){
 
 const buttonCheck = document.getElementById("submit-answer");
 buttonCheck.addEventListener("click", checkAnswer);
+
+//adiind 
